@@ -40,7 +40,7 @@ export const dashboardStyles = StyleSheet.create({
     shadowRadius: 4,
   },
   textStyle: {
-    color: COLORS.text.secondary,
+    color: "#b5b5b5"
   },
   titleTextStyle: {
   color: COLORS.white,
@@ -109,7 +109,7 @@ export const dashboardStyles = StyleSheet.create({
   },
   fileNameText: {
     marginLeft: 8,
-    color: '#666',
+    color: '#e8e8e8',
     fontSize: 14,
   },
   filePickerButton: {
